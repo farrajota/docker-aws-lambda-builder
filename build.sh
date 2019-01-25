@@ -1,6 +1,6 @@
 #!/bin/bash
 WORKDIR=$PWD
-TARGET_DIR="$2"
+TARGET_DIR=code
 
 # Parse zip file name
 if [[ "$1" == *.zip ]];
